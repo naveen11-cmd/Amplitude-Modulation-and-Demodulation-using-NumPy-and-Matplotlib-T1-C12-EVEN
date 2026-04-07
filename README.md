@@ -19,6 +19,10 @@ Generate Message Signal: Define the message signal as a cosine wave.
 Generate Carrier Signal: Define the carrier signal as a cosine wave.
 Modulate Signal: Apply the AM formula to obtain the modulated signal.
 Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
+
+
 Output:
+<img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/f6a3469f-dedd-471d-a1a4-9b7a59aea452" />
 
 Result:
+![WhatsApp Image 2026-04-07 at 11 53 02 AM](https://github.com/user-attachments/assets/c551c4ff-50f8-4a8a-825d-7c73fdf375a0)
